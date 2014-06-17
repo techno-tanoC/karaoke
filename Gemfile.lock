@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    lambda_driver (1.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  lambda_driver
